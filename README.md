@@ -14,7 +14,6 @@
 <img align="left" height="32px" width="32px" alt="JS logo" src="https://bit.ly/3r1kzxY">
 <img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1150px-React.svg.png"> 
 <img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"> 
-<img align="left" height="32px" width="32px" alt="Node.js logo" src="https://bit.ly/3rw9m8C">
 <img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://damiandeluca.com.ar/wp-content/uploads/2012/08/sublime.png">  
 <img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://bit.ly/3qZmQcU"> 
 
