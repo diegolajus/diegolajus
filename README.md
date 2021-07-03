@@ -62,12 +62,14 @@
  
 [Twitter Publisher](https://twitter-publisher.netlify.app/)  <img height="22px" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
 
+[Face Recognition App](https://face-recognition-application.netlify.app/) 🧑‍ 
+
 [Quotes for twitter](https://twitter-quotes-git-main.diegolajus.vercel.app/)   <img height="22px" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
 
 [Dark & Light Mode](https://light-and-dark-diegolajus.vercel.app/) 🌘
 
 [Form Validator](https://form-validator-diegolajus.vercel.app/) ✔️
-
+  
 </div>  
 
 
