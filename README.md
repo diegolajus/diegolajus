@@ -14,8 +14,7 @@
 <img align="left" height="32px" width="32px" alt="JS logo" src="https://bit.ly/3r1kzxY">
 <img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1150px-React.svg.png"> 
 <img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"> 
-<img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://damiandeluca.com.ar/wp-content/uploads/2012/08/sublime.png">  
-<img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://bit.ly/3qZmQcU"> 
+
 
 <br>
 <br>
@@ -45,33 +44,55 @@
 <br>
 <br>
 
-<div align="center">  
-  
+<!-- <div align="center">    
 [![trophy](https://github-profile-trophy.vercel.app/?username=diegolajus&title=Commit,Repositories,Followers,Stars)](https://github.com/diegolajus)
-  
-</div>
+</div> -->
  
  <br>
  
  
- ### 🏆   My finished projects:
-
-
  <div> 
+<h1 align="center">  🏆 My finished projects: 🏆
+ </div> 
+  
+<br>
  
-[Twitter Publisher](https://twitter-publisher.netlify.app/)  <img height="22px" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
-
-[Face Recognition App](https://face-recognition-application.netlify.app/) 🧑‍ 
-
-[Quotes for twitter](https://twitter-quotes-git-main.diegolajus.vercel.app/)   <img height="22px" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
-
-[Dark & Light Mode](https://light-and-dark-diegolajus.vercel.app/) 🌘
-
-[Form Validator](https://form-validator-diegolajus.vercel.app/) ✔️
+<!-- VUE PROJECTS -->
+  ### Vue <img align="left" height="20px" width="20px" alt="VS Сode logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"> 
+  
+[Twitter Publisher](https://twitter-publisher.netlify.app/)  <img height="22px" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/> 
   
 [Poker Range Creator](https://poker-ranges-creator.netlify.app/) 🎲
   
-</div>  
+<br>
+
+<!--   REACT PROJECTS -->
+  
+### React <img align="left" height="20px" width="20px" alt="VS Сode logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1150px-React.svg.png">  
+  
+[Face Recognition](https://face-recognition-application.netlify.app/) 🧑‍   
+  
+[Robo-Friends](https://r-friends-react-r711j42uw-diegolajus.vercel.app) 🤖
+  
+<br>
+  
+<!--   NO - FRAMEWORK -->
+### No-Framework <img align="left" height="20px" width="20px" alt="JS logo" src="https://bit.ly/3r1kzxY">
+
+  
+[Dark & Light Mode](https://light-and-dark-diegolajus.vercel.app/) 🌘
+  
+[Form Validator](https://form-validator-diegolajus.vercel.app/) ✔️
+  
+[Drag 'n' Drop](https://drag-and-drop-diegolajus.vercel.app/) 📝
+
+[Funny Jokes ](https://robot-speaker-git-main-diegolajus.vercel.app/) 😂
+
+      
+[Quotes for twitter](https://twitter-quotes-git-main.diegolajus.vercel.app/)   <img height="22px" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
+
+  
+
 
 
 <!--
