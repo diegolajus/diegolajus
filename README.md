@@ -60,9 +60,13 @@
 <!-- VUE PROJECTS -->
   ### Vue <img align="left" height="20px" width="20px" alt="VS Сode logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"> 
   
+[Ecommerce Shop](https://dls-ecommerce.netlify.app) 🛒 (Backend: Strapi)
+  
 [Twitter Publisher](https://twitter-publisher.netlify.app/)  <img height="22px" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/> 
   
 [Poker Range Creator](https://poker-ranges-creator.netlify.app/) 🎲
+  
+
   
 <br>
 
