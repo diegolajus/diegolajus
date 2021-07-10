@@ -61,7 +61,7 @@
   
 <!-- [Ecommerce Shop](https://dls-ecommerce.netlify.app) 🛒 (Backend: Strapi) -->
   
-[Twitter Publisher](https://twitter-publisher.netlify.app/)  <img height="22px" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/> 
+[Twitter Publisher](https://dls-twitter-publisher.netlify.app/)  <img height="22px" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/> 
   
 [Poker Range Creator](https://poker-ranges-creator.netlify.app/) 🎲  
 
