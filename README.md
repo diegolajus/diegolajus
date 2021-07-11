@@ -80,8 +80,10 @@
   
 <!--   NO - FRAMEWORK -->
 ### No-Framework <img align="left" height="20px" width="20px" alt="JS logo" src="https://bit.ly/3r1kzxY">
-
   
+  
+[figma Landing Page](landing-figma.netlify.app/) 📱
+
 [Dark & Light Mode](https://light-and-dark-diegolajus.vercel.app/) 🌘
   
 [Form Validator](https://form-validator-diegolajus.vercel.app/) ✔️
