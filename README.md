@@ -7,7 +7,7 @@
   
 <br>
  
-<!-- VUE PROJECTS -->
+VUE PROJECTS
 
   
 <!-- [Ecommerce Shop](https://dls-ecommerce.netlify.app) 🛒 (Backend: Strapi) -->
@@ -19,7 +19,7 @@
   
 <br>
 
-<!--   REACT PROJECTS -->
+REACT PROJECTS 
   
  
 [Face Recognition](https://face-recognition-application.netlify.app/) 🧑‍   
@@ -28,7 +28,7 @@
   
 <br>
   
-<!--   NO - FRAMEWORK -->
+NO - FRAMEWORK 
 
 [Figma Landing Page](https://landing-figma.netlify.app/) 📱
 
