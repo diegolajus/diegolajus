@@ -94,9 +94,15 @@
 
       
 [Quotes for twitter](https://twitter-quotes-git-main.diegolajus.vercel.app/)   <img height="22px" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
+<!-- 
+<div align="center">
 
+| Tables   |      Are      |
+| col 1 is |  left-aligned |
+| col 2 is |    centered   |
 
-
+</div> -->
+ 
 <!--
 **diegolajus/diegolajus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
