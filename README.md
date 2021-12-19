@@ -68,9 +68,6 @@
   
 [Poker Range Creator](https://poker-ranges-creator.netlify.app/) 🎲  
   
-[Poker Range Trainer](https://trainer-preflop.netlify.app/) 🎲  
-
-
   
 <br>
 
@@ -79,6 +76,8 @@
 ### React <img align="left" height="20px" width="20px" alt="VS Сode logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1150px-React.svg.png">  
   
 [Face Recognition](https://face-recognition-application.netlify.app/) 🧑‍   
+ 
+[Poker Range Trainer](https://trainer-preflop.netlify.app/) 🎲  
   
 <br>
   
