@@ -80,8 +80,6 @@
   
 [Face Recognition](https://face-recognition-application.netlify.app/) 🧑‍   
   
-[Robo-Friends](https://r-friends-react-r711j42uw-diegolajus.vercel.app) 🤖
-  
 <br>
   
 <!--   NO - FRAMEWORK -->
