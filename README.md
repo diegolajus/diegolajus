@@ -68,7 +68,7 @@
   
 [Poker Range Creator](https://poker-ranges-creator.netlify.app/) 🎲  
   
-[Poker Range Trainer](trainer-preflop.netlify.app/) 🎲  
+[Poker Range Trainer](https://trainer-preflop.netlify.app/) 🎲  
 
 
   
