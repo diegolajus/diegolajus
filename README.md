@@ -24,9 +24,9 @@
 ### 📚    What I'm currently learning:
 
  <div>
-<img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://cdn.worldvectorlogo.com/logos/numpy.svg">  
-<img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://img.icons8.com/dusk/452/anaconda.png">
-<img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png">  
+<img align="left" height="32px" width="32px" alt="Numpy" src="https://cdn.worldvectorlogo.com/logos/numpy.svg"> 
+ <img align="left" height="32px" width="32px" alt="Tensorflow" src="https://img.icons8.com/color/96/000000/tensorflow.png"/>
+<img align="left" height="32px" width="32px" alt="Matplotlib" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png">  
 </div>   
 
 <br>
