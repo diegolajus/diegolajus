@@ -114,9 +114,7 @@
 [Quotes for twitter](https://twitter-quotes-git-main.diegolajus.vercel.app/)   <img height="22px" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
 
 ---
- 
- [![Visitor Counter for diegolajus](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=diegolajus)](https://pimp-my-readme.webapp.io)
- 
+
  <!-- 
 <div align="center">
 
