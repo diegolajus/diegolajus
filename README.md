@@ -1,10 +1,22 @@
-<h1 align="center">  𝐇𝐞𝐥𝐥𝐨, I'm Diego 
+<h1 align="center">  𝐇𝐞𝐥𝐥𝐨, I'm Diego </h1> 
+
+<div align="center"> 
+ 
+<!--  [![GitHub followers](https://img.shields.io/github/followers/diegolajus.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)  -->
+ 
+
+  <a href="https://www.linkedin.com/in/diegolajusticia/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="linkedin"/></a>
+   <a href="[https://www.linkedin.com/in/diegolajusticia/](https://diegolajusticia.vercel.app/)" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+ 
+</div>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/diegolajusticia/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegolajusticia/" alt="linkedin"/></a>
+<!-- <a href="https://www.linkedin.com/in/diegolajusticia/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegolajusticia/" alt="linkedin"/></a>
+ -->
  
- 
+
+
 </div>
 
 ### 📐    Languages and Tools 
@@ -15,11 +27,16 @@
 <img align="left" height="32px" width="32px" alt="JS logo" src="https://bit.ly/3r1kzxY">
 <img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1150px-React.svg.png"> 
 <img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"> 
+<img align="left" height="32px" width="38px" alt="VS Сode logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png">
+<img align="left" height="38px" width="38px" alt="VS Сode logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">
+<img align="left" height="38px" width="38px" alt="VS Сode logo" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
 
 
 <br>
 <br>
 <br>
+ 
+ <!-- 
 
 ### 📚    What I'm currently learning:
 
@@ -28,6 +45,8 @@
  <img align="left" height="32px" width="32px" alt="Tensorflow" src="https://img.icons8.com/color/96/000000/tensorflow.png"/>
 <img align="left" height="32px" width="32px" alt="Matplotlib" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png">  
 </div>   
+
+-->
 
 <br>
 <br>
@@ -66,8 +85,6 @@
   
 [Poker Range Creator](https://poker-ranges-creator.netlify.app/) 🎲  
   
-  
-<br>
 
 <!--   REACT PROJECTS -->
   
