@@ -5,9 +5,6 @@
 <a href="https://www.linkedin.com/in/diegolajusticia/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegolajusticia/" alt="linkedin"/></a>
  
  
- <div><a href="https://diegolajusticia.vercel.app/"><img style="height:50px" src="https://i.postimg.cc/59pS5d41/Sin-t-tulo-2.png"></img></a></div>
- 
-
 </div>
 
 ### 📐    Languages and Tools 
