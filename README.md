@@ -69,24 +69,29 @@
 </div> -->
  
  
+ <!--
  
  <div> 
 <h1 align="center">  🏆 My finished projects: 🏆
  </div> 
-  
+ 
+ -->
+ 
 <br>
  
-<!-- VUE PROJECTS -->
+<!-- 
+
+VUE PROJECTS 
+
   ### Vue <img align="left" height="20px" width="20px" alt="VS Сode logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"> 
-  
-<!-- [Ecommerce Shop](https://dls-ecommerce.netlify.app) 🛒 (Backend: Strapi) -->
-  
+   
 [Twitter Publisher](https://dls-twitter-publisher.netlify.app/)  <img height="22px" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/> 
   
 [Poker Range Creator](https://poker-ranges-creator.netlify.app/) 🎲  
-  
 
-<!--   REACT PROJECTS -->
+-->
+
+<!--   REACT PROJECTS 
   
 ### React <img align="left" height="20px" width="20px" alt="VS Сode logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1150px-React.svg.png">  
   
@@ -94,9 +99,11 @@
  
 [Poker Range Trainer](https://trainer-preflop.netlify.app/) 🎲  
   
+-->
+
 <br>
   
-<!--   NO - FRAMEWORK -->
+<!--   NO - FRAMEWORK 
 ### No-Framework <img align="left" height="20px" width="20px" alt="JS logo" src="https://bit.ly/3r1kzxY">
   
   
@@ -113,7 +120,8 @@
       
 [Quotes for twitter](https://twitter-quotes-git-main.diegolajus.vercel.app/)   <img height="22px" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
 
----
+-->
+
 
  <!-- 
 <div align="center">
