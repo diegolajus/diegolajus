@@ -5,7 +5,7 @@
 <!--  [![GitHub followers](https://img.shields.io/github/followers/diegolajus.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)  -->
  
 
-  <a href="https://diegolajusticia.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="linkedin"/></a>
+  <a href="https://diegodls.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="linkedin"/></a>
    <a href="https://www.linkedin.com/in/diegolajusticia/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
  
 </div>
