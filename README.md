@@ -64,6 +64,8 @@
 <br>
 <br>
 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegolajus&label=Profile%20views&color=c40000&style=flat-square" alt="kraker23" /> </p> -->
+
 <!-- <div align="center">    
 [![trophy](https://github-profile-trophy.vercel.app/?username=diegolajus&title=Commit,Repositories,Followers,Stars)](https://github.com/diegolajus)
 </div> -->
